@@ -1,0 +1,26 @@
+CUSTOMER SUPPORT TROUBLESHOOTING GUIDE
+
+Device Not Turning On
+
+If the device does not turn on, first verify that the power cable
+is securely connected to both the device and the electrical outlet.
+
+If the device still does not start, disconnect the power cable,
+wait 30 seconds, reconnect it, and press the power button.
+
+If the power indicator flashes red three times, the device may
+have a power supply issue. Contact technical support.
+
+Device Running Slowly
+
+If the device is running slowly, restart the device.
+
+Check whether a software update is available under
+Settings > System > Software Update.
+
+If storage usage is above 90%, remove unnecessary files or
+applications.
+
+Wi-Fi Connection Problems
+
+If the device cannot connect to Wi-Fi, restart both the devic…
